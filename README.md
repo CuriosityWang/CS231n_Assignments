@@ -1,5 +1,5 @@
 # CS231n_Assignments
-斯坦福大学公开课[cs231n](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=3617165519773000266).Assignments
+斯坦福大学公开课[cs231n](https://www.bilibili.com/video/BV1nJ411z7fe?from=search&seid=3617165519773000266).
 ## Assignment1 
 实现k-Nearest Neighbor算法 SVM算法 Softmax_loss
 ## Assignment2
